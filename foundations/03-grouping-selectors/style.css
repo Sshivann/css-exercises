@@ -1,0 +1,14 @@
+.clickme{
+    background-color: #000000;
+    color: #ffffff;
+    font-style:Helvetica,"Times New Roman",sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+}
+.noclickme{
+    background-color: hsl(57, 95%, 53%);
+    color: hsl(0, 0%, 0%);
+    font-style:Helvetica,"Times New Roman",sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+}
