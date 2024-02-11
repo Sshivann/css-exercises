@@ -1,19 +1,16 @@
-p.Number-1,
-p.Number-3,
-p.Number-5,
-div.Number-2,
-div.Number-4{
-    background-color: #ffcccc;
-  font-family: Verdana, "DejaVu Sans", sans-serif;
+.odd {
+  background-color:#ff95a6 ;
+  font-size: Verdana,"DejaVu Sans",sans-serif;
 }
-div#Number-2 {
-    color: blue;
-    font-size: 36px;
-  }
-  p.Number-3 {
-    font-size: 24px;
-  }
-  div#Number-4 {
-    background-color: #ccffcc;
-    font-size: 24px;
-  }
+.change-font-size {
+  font-size: 24px;
+}
+#two {
+color: #2424ff;
+font-size: 36px;
+}
+#three {
+  background-color: hsl(120, 94%, 51%);
+  font-size: 24px;
+  font-weight: bold;
+}
